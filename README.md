@@ -3,6 +3,10 @@
 
 <body>
 <h1><img class="emoji" alt="rocket" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="30" height="30"></g-emoji> Algorithms and Data Structures Roadmap</h1>
+<h3>Algorithms and Data Structures Mastery Roadmap: From Fundamentals to Advanced Concepts</h3>
+  
+![Data-Structures-and-Algorithms](https://github.com/ahmed-faroukk/Algo-DS-RoadMap/assets/72602749/09ad4378-bb08-42c8-92f7-0b2c151d8da5)
+
 
   <h2>Array Section:</h2>
   <ul>
@@ -85,7 +89,9 @@
   <ul>
     <li>Bit Operations</li>
   </ul>
-
+</a>
+<h2>What after that: <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><img class="emoji" alt="thinking" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png" width="20" height="20"></g-emoji></h2>
+<p dir="auto">I think you need to keep learning more and more..</p>
 
 </body>
 </html>
