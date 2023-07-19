@@ -2,7 +2,7 @@
 <html>
 
 <body>
-  <h1>Algorithms and Data Structures Roadmap</h1>
+<h1>Algorithms and Data Structures Roadmap</h1>
 
   <h2>Array Section:</h2>
   <ul>
