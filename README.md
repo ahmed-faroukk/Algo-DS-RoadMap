@@ -2,7 +2,7 @@
 <html>
 
 <body>
-<h1>Algorithms and Data Structures Roadmap</h1>
+<h1><img class="emoji" alt="rocket" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="30" height="30"></g-emoji> Algorithms and Data Structures Roadmap</h1>
 
   <h2>Array Section:</h2>
   <ul>
