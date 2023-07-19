@@ -6,7 +6,6 @@
 
   <h2>Array Section:</h2>
   <ul>
-    <li>Introduction</li>
     <li>RAM</li>
     <li>Static Arrays</li>
     <li>Dynamic Arrays</li>
