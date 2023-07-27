@@ -14,7 +14,8 @@
     <li>Static Arrays</li>
     <li>Dynamic Arrays</li>
     <li>Stacks</li>
-<a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Stacks/CreateStackManually/stack.kt">Code Example</a>
+     <a href="https://www.youtube.com/watch?v=I37kGX-nZEI">intro to stack</a> <br>
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Stacks/CreateStackManually/stack.kt">Code Example With Kotlin </a>
 
   </ul>
 
