@@ -14,6 +14,8 @@
     <li>Static Arrays</li>
     <li>Dynamic Arrays</li>
     <li>Stacks</li>
+    [Code Example](https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Stacks/CreateStackManually/stack.kt)
+
   </ul>
 
   <h2>Linked Lists Section:</h2>
