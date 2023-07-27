@@ -11,8 +11,8 @@
   <h2>Array Section:</h2>
   <ul>
     <li>RAM</li>
-    <li>Static Arrays && Dynamic Arrays</li>
-     <a href="https://www.youtube.com/watch?v=qTb1sZX74K0">Static Arrays vs. Dynamic Arrays</a> <br>
+    <li>Static and Dynamic Arrays</li>
+     <a href="https://www.youtube.com/watch?v=qTb1sZX74K0">What is difference!!</a> <br>
     <li>Stacks</li>
      <a href="https://www.youtube.com/watch?v=I37kGX-nZEI">intro to stack</a> <br>
      <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Stacks/CreateStackManually/stack.kt">Code Example With Kotlin </a>
