@@ -14,7 +14,7 @@
     <li>Static Arrays</li>
     <li>Dynamic Arrays</li>
     <li>Stacks</li>
-    [Code Example](https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Stacks/CreateStackManually/stack.kt)
+<a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Stacks/CreateStackManually/stack.kt">Code Example</a>
 
   </ul>
 
