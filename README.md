@@ -22,9 +22,14 @@
   <h2>Linked Lists Section:</h2>
   <ul>
     <li>Singly Linked Lists</li>
+     <a href="https://www.youtube.com/watch?v=WwfhLC16bis">intro for linked-List</a> <br>
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Lined-list/Singly%20Linked%20Lists/code.kt">Code Example With Kotlin </a>
     <li>Doubly Linked Lists</li>
+      <a href="https://www.youtube.com/watch?v=WwfhLC16bis">intro for linked-List</a> <br>
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Lined-list/Doubly%20LinkedList/code.kt">Code Example With Kotlin </a>
     <li>Queues</li>
-  </ul>
+     <a href="https://www.youtube.com/watch?v=A3ZUpyrnCbM&t=811s">what is queue and how to imp it </a> <br>
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/queue%20">Code Example With Kotlin </a>  </ul>
 
   <h2>Recursion Section:</h2>
   <ul>
