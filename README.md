@@ -35,6 +35,8 @@
   <ul>
     <li>Factorial</li>
     <li>Fibonacci Sequence</li>
+    <a href="https://www.youtube.com/watch?v=cum3OrpURzc">Fibonacci Series In Java With Recursion </a> <br>
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Recursion/Fibonacci">Code Example With Kotlin </a>  </ul>
   </ul>
 
   <h2>Sorting Section:</h2>
