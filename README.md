@@ -32,15 +32,14 @@
      <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/queue%20">Code Example With Kotlin </a>  </ul>
 
   <h2>Recursion Section:</h2>
-  <ul>
+  <ul> 
     <li>Factorial</li>
     <a href="https://www.youtube.com/watch?v=OZuzm1i9g1c&t=43s">Factorial Series In Java With Recursion </a> <br>
-     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Recursion/factorial">Code Example With Kotlin </a>  </ul>
-    <li>Fibonacci Sequence</li>
-  
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Recursion/factorial">Code Example With Kotlin </a>  
+  <li>Fibonacci Sequence</li>
       <a href="https://www.youtube.com/watch?v=cum3OrpURzc">Fibonacci Series In Java With Recursion </a> <br>
-     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Recursion/Fibonacci">Code Example With Kotlin </a>  </ul>
-  </ul>
+     <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Recursion/Fibonacci">Code Example With Kotlin </a> 
+     </ul>
 
   <h2>Sorting Section:</h2>
   <ul>
