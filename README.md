@@ -43,10 +43,7 @@
 
   <h2>Sorting Section:</h2>
   <ul>
-    <li>Insertion Sort</li>
-    <li>Merge Sort</li>
-    <li>Quick Sort</li>
-    <li>Bucket Sort</li>
+   <strong>Introduction to Sorting and Sorting Algorithms:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_new">Sorting Algorithms Explained (YouTube Video)</a>: This video provides an overview of sorting algorithms and their importance.</li></ul><p><strong>Bubble Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/bubble-sort/" target="_new">Bubble Sort - GeeksforGeeks</a>: A detailed explanation of the Bubble Sort algorithm along with code examples.</li><li><a href="https://en.wikipedia.org/wiki/Bubble_sort" target="_new">Bubble Sort - Wikipedia</a>: The Wikipedia page provides a concise description of Bubble Sort.</li></ul><p><strong>Selection Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/selection-sort/" target="_new">Selection Sort - GeeksforGeeks</a>: Comprehensive explanation and code examples for Selection Sort.</li><li><a href="https://en.wikipedia.org/wiki/Selection_sort" target="_new">Selection Sort - Wikipedia</a>: A brief description of Selection Sort on Wikipedia.</li></ul><p><strong>Insertion Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/insertion-sort/" target="_new">Insertion Sort - GeeksforGeeks</a>: Detailed explanation and code examples for Insertion Sort.</li><li><a href="https://en.wikipedia.org/wiki/Insertion_sort" target="_new">Insertion Sort - Wikipedia</a>: A concise description of Insertion Sort on Wikipedia.</li>
   </ul>
 
   <h2>Binary Search Section:</h2>
