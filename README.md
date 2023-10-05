@@ -11,6 +11,7 @@
   <h2>Array Section:</h2>
   <ul>
     <li>RAM</li>
+      <a href="https://www.programiz.com/cpp-programming/memory-management">What is difference!!</a> <br>
     <li>Static and Dynamic Arrays</li>
      <a href="https://www.youtube.com/watch?v=qTb1sZX74K0">What is difference!!</a> <br>
     <li>Stacks</li>
@@ -46,58 +47,9 @@
    <strong>Introduction to Sorting and Sorting Algorithms:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_new">Sorting Algorithms Explained (YouTube Video)</a>: This video provides an overview of sorting algorithms and their importance.</li></ul><p><strong>Bubble Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/bubble-sort/" target="_new">Bubble Sort - GeeksforGeeks</a>: A detailed explanation of the Bubble Sort algorithm along with code examples.</li><li><a href="https://en.wikipedia.org/wiki/Bubble_sort" target="_new">Bubble Sort - Wikipedia</a>: The Wikipedia page provides a concise description of Bubble Sort.</li></ul><p><strong>Selection Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/selection-sort/" target="_new">Selection Sort - GeeksforGeeks</a>: Comprehensive explanation and code examples for Selection Sort.</li><li><a href="https://en.wikipedia.org/wiki/Selection_sort" target="_new">Selection Sort - Wikipedia</a>: A brief description of Selection Sort on Wikipedia.</li></ul><p><strong>Insertion Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/insertion-sort/" target="_new">Insertion Sort - GeeksforGeeks</a>: Detailed explanation and code examples for Insertion Sort.</li><li><a href="https://en.wikipedia.org/wiki/Insertion_sort" target="_new">Insertion Sort - Wikipedia</a>: A concise description of Insertion Sort on Wikipedia.</li>
   </ul>
 
-  <h2>Binary Search Section:</h2>
-  <ul>
-    <li>Search Array</li>
-    <li>Search Range</li>
-  </ul>
+  <h2>Advanced Level </h2>
+  <strong>Binary Search:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=JQhciTuD3E8" target="_new">Binary Search Algorithm - Computerphile</a></li></ul><p><strong>Trees:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=Q5KbMS8QhCQ" target="_new">Tree Data Structures - The Net Ninja</a></li></ul><p><strong>Backtracking:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=Zq4upTEaQyM" target="_new">Backtracking Algorithm - Computerphile</a></li></ul><p><strong>Hashing:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=shs0KM3wKv8" target="_new">Hash Tables - Computerphile</a></li></ul><p><strong>Graphs:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=R74DnYySxv0&amp;t=5s" target="_new">Graph Theory - William Fiset</a></li></ul><p><strong>Dynamic Programming:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=OQ5jsbhAv_M" target="_new">Dynamic Programming - Computerphile</a>
 
-  <h2>Trees Section:</h2>
-  <ul>
-    <li>Binary Tree</li>
-    <li>Binary Search Tree</li>
-    <li>BST Insert and Remove</li>
-    <li>Depth-First Search</li>
-    <li>Breadth-First Search</li>
-    <li>BST Sets and Maps</li>
-  </ul>
-
-  <h2>Backtracking Section:</h2>
-  <ul>
-    <li>Tree Maze</li>
-  </ul>
-
-  <h2>Heap / Priority Queue Section:</h2>
-  <ul>
-    <li>Heap Properties</li>
-    <li>Push and Pop</li>
-    <li>Heapify</li>
-  </ul>
-
-  <h2>Hashing Section:</h2>
-  <ul>
-    <li>Hash Usage</li>
-    <li>Hash Implementation</li>
-  </ul>
-
-  <h2>Graphs Section:</h2>
-  <ul>
-    <li>Intro to Graphs</li>
-    <li>Matrix DFS</li>
-    <li>Matrix BFS</li>
-    <li>Adjacency List</li>
-  </ul>
-
-  <h2>Dynamic Programming Section:</h2>
-  <ul>
-    <li>1-Dimension DP</li>
-    <li>2-Dimension DP</li>
-  </ul>
-
-  <h2>Bit Manipulation Section:</h2>
-  <ul>
-    <li>Bit Operations</li>
-  </ul>
 </a>
 <h2>What after that: <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><img class="emoji" alt="thinking" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png" width="20" height="20"></g-emoji></h2>
 <p dir="auto">I think you need to keep learning more and more..</p>
