@@ -85,9 +85,20 @@
     
   </ul>
   
-  <h2>Backtracking:</h2><ul><li><a href="https://www.youtube.com/watch?v=Zq4upTEaQyM" target="_new">Backtracking Algorithm - Computerphile</a></li></ul>
+  <h2>Backtracking:</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=bj2Qdu08XYw" target="_new">Backtracking Algorithm - Ahmed Ali Youtube</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Zq4upTEaQyM" target="_new">Backtracking Algorithm -  Back To Back SWE
+</a></li>
+    <li><a href="https://www.baeldung.com/java-sudoku" target="_new">Problem With Solution - java-sudoku </a></li>
+
+  
+  </ul>
   <h2>Hashing:</h2>
-  <ul><li><a href="https://www.youtube.com/watch?v=shs0KM3wKv8" target="_new">Hash Tables - Computerphile</a></li></ul>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=shs0KM3wKv8" target="_new">Hash Tables - Computerphile</a></li>
+  
+  </ul>
   <h2>Graphs:</h2><ul><li><a href="https://www.youtube.com/watch?v=R74DnYySxv0&amp;t=5s" target="_new">Graph Theory - William Fiset</a></li></ul>
   <h2>Dynamic Programming:</h2><ul><li><a href="https://www.youtube.com/watch?v=OQ5jsbhAv_M" target="_new">Dynamic Programming - Computerphile</a>
 
