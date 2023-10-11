@@ -96,11 +96,26 @@
   </ul>
   <h2>Hashing:</h2>
   <ul>
+          <li><a href="https://www.youtube.com/watch?v=sfWyugl4JWA" target="_new">Introduction to Hash Tables and Dictionaries  - cs dojo</a></li>
     <li><a href="https://www.youtube.com/watch?v=shs0KM3wKv8" target="_new">Hash Tables - Computerphile</a></li>
-  
+        <li><a href="https://www.javatpoint.com/hashing-techniques-in-java" target="_new">Hashing Techniques in Java - javatpoint </a></li>
+
+
   </ul>
-  <h2>Graphs:</h2><ul><li><a href="https://www.youtube.com/watch?v=R74DnYySxv0&amp;t=5s" target="_new">Graph Theory - William Fiset</a></li></ul>
-  <h2>Dynamic Programming:</h2><ul><li><a href="https://www.youtube.com/watch?v=OQ5jsbhAv_M" target="_new">Dynamic Programming - Computerphile</a>
+  <h2>Graphs:</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=R74DnYySxv0&amp;t=5s" target="_new">Graph Theory -  Adel Nasim </a></li>
+      <li><a href="https://www.youtube.com/watch?v=dS44jZyj5gU" target="_new">Graph Theory -  Graph Algorithms Crash Course (with Java) </a></li>
+
+  </ul>
+  <h2>Dynamic Programming:</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=vYquumk4nWw" target="_new"> What Is Dynamic Programming and How To Use It  - cs Dojo </a>
+        <li><a href="https://www.youtube.com/watch?v=OQ5jsbhAv_M" target="_new">Dynamic Programming - MIT</a>
+                  <li><a href="https://www.youtube.com/watch?v=nqlNzOcnCfs" target="_new">Dynamic Programming Interview Question </a>
+                                    <li><a href="https://leetcode.com/tag/dynamic-programming/" target="_new">Leet Code Questions </a>
+
+
 
 </a>
 <h2>What after that: <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><img class="emoji" alt="thinking" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png" width="20" height="20"></g-emoji></h2>
