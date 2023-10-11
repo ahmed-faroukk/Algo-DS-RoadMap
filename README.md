@@ -43,7 +43,11 @@
      </ul>
 
  <h2>Sorting Section:</h2>
+ 
 <ul>
+    <li>Watch this<a href="https://www.geeksforgeeks.org/bubble-sort/" target="_new"> playlist </a>- Sort Algos // Michael Sambol</li>
+    
+
   <li>Bubble Sort
     <ul>
       <li><a href="https://www.geeksforgeeks.org/bubble-sort/" target="_new">GeeksforGeeks - Bubble Sort</a>: Detailed explanation and code examples for Bubble Sort.</li>
