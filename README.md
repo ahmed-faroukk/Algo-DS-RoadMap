@@ -42,13 +42,54 @@
      <a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Recursion/Fibonacci">Code Example With Kotlin </a> 
      </ul>
 
-  <h2>Sorting Section:</h2>
-  <ul>
-   <strong>Introduction to Sorting and Sorting Algorithms:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=kPRA0W1kECg" target="_new">Sorting Algorithms Explained (YouTube Video)</a>: This video provides an overview of sorting algorithms and their importance.</li></ul><p><strong>Bubble Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/bubble-sort/" target="_new">Bubble Sort - GeeksforGeeks</a>: A detailed explanation of the Bubble Sort algorithm along with code examples.</li><li><a href="https://en.wikipedia.org/wiki/Bubble_sort" target="_new">Bubble Sort - Wikipedia</a>: The Wikipedia page provides a concise description of Bubble Sort.</li></ul><p><strong>Selection Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/selection-sort/" target="_new">Selection Sort - GeeksforGeeks</a>: Comprehensive explanation and code examples for Selection Sort.</li><li><a href="https://en.wikipedia.org/wiki/Selection_sort" target="_new">Selection Sort - Wikipedia</a>: A brief description of Selection Sort on Wikipedia.</li></ul><p><strong>Insertion Sort:</strong></p><ul><li><a href="https://www.geeksforgeeks.org/insertion-sort/" target="_new">Insertion Sort - GeeksforGeeks</a>: Detailed explanation and code examples for Insertion Sort.</li><li><a href="https://en.wikipedia.org/wiki/Insertion_sort" target="_new">Insertion Sort - Wikipedia</a>: A concise description of Insertion Sort on Wikipedia.</li>
-  </ul>
+ <h2>Sorting Section:</h2>
+<ul>
+  <li>Bubble Sort
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/bubble-sort/" target="_new">GeeksforGeeks - Bubble Sort</a>: Detailed explanation and code examples for Bubble Sort.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Bubble_sort" target="_new">Wikipedia - Bubble Sort</a>: A concise description of Bubble Sort.</li>
+    </ul>
+  </li>
 
-  <h2>Advanced Level </h2>
-  <strong>Binary Search:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=JQhciTuD3E8" target="_new">Binary Search Algorithm - Computerphile</a></li></ul><p><strong>Trees:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=Q5KbMS8QhCQ" target="_new">Tree Data Structures - The Net Ninja</a></li></ul><p><strong>Backtracking:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=Zq4upTEaQyM" target="_new">Backtracking Algorithm - Computerphile</a></li></ul><p><strong>Hashing:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=shs0KM3wKv8" target="_new">Hash Tables - Computerphile</a></li></ul><p><strong>Graphs:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=R74DnYySxv0&amp;t=5s" target="_new">Graph Theory - William Fiset</a></li></ul><p><strong>Dynamic Programming:</strong></p><ul><li><a href="https://www.youtube.com/watch?v=OQ5jsbhAv_M" target="_new">Dynamic Programming - Computerphile</a>
+  <li>Selection Sort
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/selection-sort/" target="_new">GeeksforGeeks - Selection Sort</a>: Comprehensive explanation and code examples for Selection Sort.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Selection_sort" target="_new">Wikipedia - Selection Sort</a>: A brief description of Selection Sort.</li>
+    </ul>
+  </li>
+
+  <li>Insertion Sort
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/insertion-sort/" target="_new">GeeksforGeeks - Insertion Sort</a>: Detailed explanation and code examples for Insertion Sort.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Insertion_sort" target="_new">Wikipedia - Insertion Sort</a>: A concise description of Insertion Sort.</li>
+    </ul>
+  </li>
+</ul>
+
+
+  <h2>Binary Search:</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=JQhciTuD3E8" target="_new">Binary Search Algorithm - Computerphile</a></li>
+     <li><a href="https://www.youtube.com/watch?v=6ysjqCUv3K4" target="_new">Binary Search Algorithm - cs dojo (Recommended)</a></li>
+    <li><a href="https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/" target="_new">Binary Search Algorithm (java)- Article</a></li>
+
+  </ul>
+  <h2>Trees:</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=oSWTXtMglKE" target="_new">Tree Data Structures - HackerRank Youtube </a></li>
+      <li><a href="https://www.youtube.com/watch?v=1-l_UOFi1Xw" target="_new">Tree Data Structures - cs dojo Youtube(Recommended) </a></li>
+    <li><a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/blob/main/Tree/FindSumOfNodes/findSum.java" target="_new">Tree problem with Solution </a></li>
+      <li><a href="https://www.youtube.com/watch?v=abaxG_-P9Ug" target="_new">Binary Tree - Youtube(Recommended) </a></li>
+      <li><a href="https://github.com/ahmed-faroukk/Problem-Solving-LeetCode/tree/main/Tree/94.%20Binary%20Tree%20Inorder%20Traversal" target="_new">Binary Tree Problem With Solution </a></li>
+
+    
+  </ul>
+  
+  <h2>Backtracking:</h2><ul><li><a href="https://www.youtube.com/watch?v=Zq4upTEaQyM" target="_new">Backtracking Algorithm - Computerphile</a></li></ul>
+  <h2>Hashing:</h2>
+  <ul><li><a href="https://www.youtube.com/watch?v=shs0KM3wKv8" target="_new">Hash Tables - Computerphile</a></li></ul>
+  <h2>Graphs:</h2><ul><li><a href="https://www.youtube.com/watch?v=R74DnYySxv0&amp;t=5s" target="_new">Graph Theory - William Fiset</a></li></ul>
+  <h2>Dynamic Programming:</h2><ul><li><a href="https://www.youtube.com/watch?v=OQ5jsbhAv_M" target="_new">Dynamic Programming - Computerphile</a>
 
 </a>
 <h2>What after that: <g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><img class="emoji" alt="thinking" src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png" width="20" height="20"></g-emoji></h2>
